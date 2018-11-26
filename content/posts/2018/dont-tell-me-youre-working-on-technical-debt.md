@@ -1,7 +1,6 @@
 ---
 title: Don’t tell me you’re working on “Technical Debt”
 date: 2018-09-18 07:00:00 +0000
-draft: true
 
 ---
 That’s a category of work not a thing in and of itself.
