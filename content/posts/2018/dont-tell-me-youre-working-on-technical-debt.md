@@ -1,6 +1,8 @@
 ---
 title: Don’t tell me you’re working on “Technical Debt”
 date: 2018-09-18 07:00:00 +0000
+categories: Development
+tags: ["Rambling", "Code"]
 
 ---
 That’s a category of work not a thing in and of itself.
