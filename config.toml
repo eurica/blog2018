@@ -1,0 +1,4 @@
+baseURL = "https://euri.ca/"
+languageCode = "en-us"
+title = "euri.ca"
+theme = "ananke"
