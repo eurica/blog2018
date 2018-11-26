@@ -1,4 +1,8 @@
-baseURL = "https://euri.ca/"
+baseURL = "https://blissful-archimedes-9aa76d.netlify.com"
 languageCode = "en-us"
 title = "euri.ca"
-theme = "ananke"
+theme = "hyde"
+
+
+[params]
+  themeColor = "theme-base-0c"
