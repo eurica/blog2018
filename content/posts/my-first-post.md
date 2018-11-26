@@ -1,7 +1,7 @@
 ---
 title: My Last Listen at PagerDuty
 date: 2018-10-04 07:00:00 +0000
-draft: true
+keywords: ["pagerduty"]
 
 ---
 At [PagerDuty](https://www.pagerduty.com/careers/), we have a tradition of going out on a “[Last Lecture](http://en.wikipedia.org/wiki/The_Last_Lecture)”. I think PagerDuty has given me [more](https://www.youtube.com/watch?v=PU8AuKxwNyw) [than](https://www.youtube.com/watch?v=6C4OHP4tsKA) [enough](https://www.youtube.com/watch?v=MeYVQJC0HJI) [chances](https://redmonk.com/rstephens/2018/09/20/impressions-from-pagerduty-summit/) to speak over the past 7 years so instead I took it as a chance to share some of the best advice I’ve gotten from my coworkers. The best pieces came from multiple directions so I’ve left them all unsourced.
