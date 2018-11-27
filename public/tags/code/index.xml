@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on euri.ca</title>
+    <link>https://blissful-archimedes-9aa76d.netlify.com/tags/code/</link>
+    <description>Recent content in Code on euri.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Oct 2018 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blissful-archimedes-9aa76d.netlify.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Last Listen at PagerDuty</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/my-last-listen-at-pagerduty/</link>
+      <pubDate>Thu, 04 Oct 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/my-last-listen-at-pagerduty/</guid>
+      <description>At PagerDuty, we have a tradition of going out on a “Last Lecture”. I think PagerDuty has given me more than enough chances to speak over the past 7 years so instead I took it as a chance to share some of the best advice I’ve gotten from my coworkers. The best pieces came from multiple directions so I’ve left them all unsourced.
+“The audience wants you to succeed.” That’s the advice that helped me stop dreading public speaking and it’s held true outside of a few charmingly hostile sales calls.</description>
+    </item>
+    
+    <item>
+      <title>Don’t tell me you’re working on “Technical Debt”</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/dont-tell-me-youre-working-on-technical-debt/</link>
+      <pubDate>Tue, 18 Sep 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/dont-tell-me-youre-working-on-technical-debt/</guid>
+      <description>That’s a category of work not a thing in and of itself.
+Tell me what, why and why now:
+ We’re upgrading our database library because we’re 2 versions behind and in 3 months it will no longer get security updates. We’re upgrading the data object model library at the same time since it’s 4 versions behind and we’re having trouble getting answers to our edge cases. We’re preemptively upgrading our serialization library because it’s trivial when we do the other work and saves us 10x the work next year.</description>
+    </item>
+    
+  </channel>
+</rss>

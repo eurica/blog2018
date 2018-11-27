@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagerduty on euri.ca</title>
+    <link>https://blissful-archimedes-9aa76d.netlify.com/categories/pagerduty/</link>
+    <description>Recent content in Pagerduty on euri.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Oct 2018 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blissful-archimedes-9aa76d.netlify.com/categories/pagerduty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Last Listen at PagerDuty</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/my-last-listen-at-pagerduty/</link>
+      <pubDate>Thu, 04 Oct 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/my-last-listen-at-pagerduty/</guid>
+      <description>At PagerDuty, we have a tradition of going out on a “Last Lecture”. I think PagerDuty has given me more than enough chances to speak over the past 7 years so instead I took it as a chance to share some of the best advice I’ve gotten from my coworkers. The best pieces came from multiple directions so I’ve left them all unsourced.
+“The audience wants you to succeed.” That’s the advice that helped me stop dreading public speaking and it’s held true outside of a few charmingly hostile sales calls.</description>
+    </item>
+    
+  </channel>
+</rss>

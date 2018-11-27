@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="//gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.51" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Don’t tell me you’re working on “Technical Debt” &middot; euri.ca</title>
+
+  
+  <link type="text/css" rel="stylesheet" href="https://blissful-archimedes-9aa76d.netlify.comcss/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://blissful-archimedes-9aa76d.netlify.comcss/poole.css">
+  <link type="text/css" rel="stylesheet" href="https://blissful-archimedes-9aa76d.netlify.comcss/syntax.css">
+  <link type="text/css" rel="stylesheet" href="https://blissful-archimedes-9aa76d.netlify.comcss/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="euri.ca" />
+
+  
+</head>
+
+  <body class="theme-base-0c ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="https://blissful-archimedes-9aa76d.netlify.com"><h1>euri.ca</h1></a>
+      <p class="lead">
+      An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="https://blissful-archimedes-9aa76d.netlify.com">Home</a> </li>
+        
+      </ul>
+    </nav>
+
+    <p>&copy; 2018. All rights reserved. </p>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Don’t tell me you’re working on “Technical Debt”</h1>
+  <time datetime=2018-09-18T07:00:00Z class="post-date">Tue, Sep 18, 2018</time>
+  <p>That’s a category of work not a thing in and of itself.</p>
+
+<p>Tell me what, why and why now:</p>
+
+<ul>
+<li>We’re upgrading our database library because we’re 2 versions behind and in 3 months it will no longer get security updates.</li>
+<li>We’re upgrading the data object model library at the same time since it’s 4 versions behind and we’re having trouble getting answers to our edge cases.</li>
+<li>We’re preemptively upgrading our serialization library because it’s trivial when we do the other work and saves us 10x the work next year.</li>
+<li>We’re redoing our web front end because if you don’t change you JavaScript framework every 2 years you can’t hire devs in San Francisco.</li>
+<li>We’re changing our rendering pipeline because I’m used to another one and weeks of work could save hours of reading the documentation.</li>
+<li>We’re doing a sprint of p2 and p3 bugs because we’re below our quality bar, they are drowning our real p1s and slowing dev. Now’s a good time because we’re blocked on the API team.</li>
+<li>We’re caching some data locally because we’ve found a dependency on a 3rd party API can cause us to hard 500. We didn’t expect this vendor to go down for more than a few minutes, but they had a 30 hour outage last month.</li>
+<li>We took some shortcuts to get customers using a feature, but we only tested it with up to 100 users, we’ll probably hit that point in a month so we need to scale before then.</li>
+<li>We’re doing some security hardening; after a team discussion we suspect we may be vulnerable to SQL injection attacks.</li>
+<li>We are changing our framework, because it’s fun and we sense weakness in the organization so if we get part of it into production while product &amp; marketing are fighting then we’ll be stuck finishing it.</li>
+</ul>
+
+<p>Some of these are obviously better than others.</p>
+
+</div>
+
+
+    </main>
+
+    
+  </body>
+</html>
