@@ -19,4 +19,4 @@ You should already have the data to make better help.  Here’s what we do at P
 
 A great support team (seriously, [come join us](https://www.pagerduty.com/company/job-openings/?jobid=a0Kj000000261BREAY)) definitely helps, but they key element is getting into the frustrated customer’s mindset from the actual words they use and the actual frequency they use them.
 
-[![If you want them to RTFM, make a better FM. - Kathy Sierra #mtpcon](http://euri.ca/wp-content/uploads/2015/06/Amanda_on_twitter.png-1024x458.png =620x277)](https://twitter.com/AmbassadorAwsum/status/606513949543133185)
+[![If you want them to RTFM, make a better FM. - Kathy Sierra #mtpcon]](https://twitter.com/AmbassadorAwsum/status/606513949543133185)
