@@ -1,0 +1,9 @@
+---
+label: Default Template
+hide_body: false
+is_partial: false
+fields:
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Tags
