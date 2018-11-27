@@ -20,6 +20,8 @@ Configure your JIRA [webhooks](http://blogs.atlassian.com/2012/10/jira-5-2-remo
 
 **Step 3, configure JIRA**
 
+![](/uploads/WebHooks_-_JIRA1.png)
+
 **Step 3b, Choose what issues trigger PD Incidents**  
 JIRA can send webhooks on all incidents that match a piece of JQL, for instance
 
