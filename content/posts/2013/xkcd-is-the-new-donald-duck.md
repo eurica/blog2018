@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:26:52-08:00"
+date = "2013-07-17T22:26:52-08:00"
 draft = true
 tags = []
 title = "XKCD is the new Donald Duck"
 
 +++
-July 17, 2013 by dave
 
 As a child, it bothered me the way that the Star Trek world interacted with technology; the idea that a human being would need to say “evasive maneuvers” made for an awful UI and a wild misunderstanding of how fast computers can shoot lasers at each other. Hidden from my bulky cathode ray emitting box, the real future was being [predicted by Donald Duck](http://www.cracked.com/article_19021_5-amazing-things-invented-by-donald-duck-seriously.html), and Randall Munroe is the Donald Duck of programmers.
 

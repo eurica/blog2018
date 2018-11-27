@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T22:21:00-08:00"
+date = "2014-07-13T22:21:00-08:00"
 draft = true
 tags = []
 title = "Exporting PagerDuty users to CSV with JavaScript"
 
 +++
-July 13, 2014 by dave
-
 We’ve had a couple of people ask how to export PagerDuty data to Excel, so here’s a script that I wrote with my [PagerDuty JavaScript library](https://github.com/eurica/pdjs) and [FileSaver.js](https://github.com/eligrey/FileSaver.js).
 
 Try it:

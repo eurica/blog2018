@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:20:06-08:00"
+date = "2014-08-07T22:20:06-08:00"
 draft = true
 tags = []
 title = "How to get a Programming Job in Silicon Valley"
 
 +++
-August 7, 2014 by dave
 
 Because I am a very very important person, people often ask me how to get a job in programming in Silicon Valley. This is the advice that I’ve been giving them, it’s a work in progress and contributions are welcome.
 

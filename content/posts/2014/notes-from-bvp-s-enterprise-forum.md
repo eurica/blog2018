@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:12:59-08:00"
+date = "2014-11-17T22:12:59-08:00"
 draft = true
 tags = []
 title = "Notes from BVP’s Enterprise Forum"
 
 +++
-November 17, 2014 by dave
 
 [Bessemer Venture Partners](http://www.bvp.com/) invited me to join other product people from their portfolio companies for a mini-conference on product development for the enterprise. Here’s a rough pass at my takeaways, ranging from the obvious to the insightful:
 

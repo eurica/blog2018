@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:14:23-08:00"
+date = "2014-10-28T22:14:23-08:00"
 draft = true
 tags = []
 title = "Roadmap and prioritization basic axioms"
 
 +++
-October 28, 2014 by dave
 
 _This is part of an_ [_ongoing series to document what I learned_](http://euri.ca/tag/what-i-learned-at-pagerduty/index.html) _growing_ [_PagerDuty_](http://www.pagerduty.com/) _from 6 people to over 100 in 3+ years._
 

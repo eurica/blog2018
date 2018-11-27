@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:25:39-08:00"
+date = "2013-06-25T22:25:39-08:00"
 draft = true
 tags = []
 title = "Reddit does nerd humour"
 
 +++
-June 25, 2013 by dave
 
 Every so often, [Reddit](http://www.reddit.com/) has a joke thread — and I’m always meaning to remember the best ones. This time, I’m actually going to keep track of the [most intellectual jokes](http://www.reddit.com/r/AskReddit/comments/1h1cyg/whats_the_most_intellectual_joke_you_know/) that I haven’t heard (and a few I have, but not in years).
 

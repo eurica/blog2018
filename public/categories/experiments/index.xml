@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiments on euri.ca</title>
+    <link>https://blissful-archimedes-9aa76d.netlify.com/categories/experiments/</link>
+    <description>Recent content in Experiments on euri.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jan 2015 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blissful-archimedes-9aa76d.netlify.com/categories/experiments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What do computers dream about?</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2015/what-do-computers-dream-about/</link>
+      <pubDate>Thu, 08 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2015/what-do-computers-dream-about/</guid>
+      <description>I&amp;rsquo;m a lot of text</description>
+    </item>
+    
+  </channel>
+</rss>

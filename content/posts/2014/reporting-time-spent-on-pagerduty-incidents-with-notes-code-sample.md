@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:16:38-08:00"
+date = "2014-09-16T22:16:38-08:00"
 draft = true
 tags = []
 title = "Reporting time spent on PagerDuty incidents with notes (code sample)"
 
 +++
-September 16, 2014 by dave
 
 I was talking with a [PagerDuty](http://www.pagerduty.com/) customer, and they track how much time they spend responding to an incident with a simple string like “30m” or “2h” in a note on the incident.
 

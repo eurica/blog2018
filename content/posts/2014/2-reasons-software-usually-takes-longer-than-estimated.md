@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T22:18:17-08:00"
+date = "2014-09-15T22:18:17-08:00"
 draft = true
 tags = []
 title = "2 reasons software usually takes longer than estimated"
 
 +++
-September 15, 2014 by dave
-
 Like many people whose jobs involve getting software out the door, I think a lot about why we usually ship late (and never early). Unfortunately my theory is pretty mundane — the less accurate the estimate, the more likely it is to be late rather than early.
 
 1\. Errors don’t cancel out. A simple example: If a half of the tasks in a project take twice as long as you expect, and the other half take half as long — rather than being on time, your project took 25% longer than scheduled[1](http://euri.ca/2014/why-software-usually-takes-longer-than-estimated/index.html#fn-1336-1). Unfortunately, to compensate for 1 task taking twice as long as you thought, you need to come in 50% under for 2 other similar sized tasks. The numbers are correspondingly worse if you’re off by a larger multiple.

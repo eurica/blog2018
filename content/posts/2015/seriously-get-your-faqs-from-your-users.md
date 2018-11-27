@@ -1,5 +1,5 @@
 +++
-date = "2018-11-26T21:44:41-08:00"
+date = "2015-11-26T21:44:41-08:00"
 draft = true
 tags = ["pagerduty", "product management"]
 title = "Seriously, get your FAQs from your users"
@@ -20,3 +20,5 @@ You should already have the data to make better help.  Here’s what we do at P
 A great support team (seriously, [come join us](https://www.pagerduty.com/company/job-openings/?jobid=a0Kj000000261BREAY)) definitely helps, but they key element is getting into the frustrated customer’s mindset from the actual words they use and the actual frequency they use them.
 
 [![If you want them to RTFM, make a better FM. - Kathy Sierra #mtpcon]](https://twitter.com/AmbassadorAwsum/status/606513949543133185)
+
+{{< tweet 606513949543133185 >}}

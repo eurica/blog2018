@@ -6,10 +6,19 @@
     <description>Recent content in Posts on euri.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Oct 2018 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blissful-archimedes-9aa76d.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test post</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/test-post/</link>
+      <pubDate>Mon, 08 Oct 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/test-post/</guid>
+      <description>printf();  alert(&amp;ldquo;hello&amp;rdquo;)</description>
+    </item>
     
     <item>
       <title>My Last Listen at PagerDuty</title>
@@ -30,6 +39,24 @@
       <description>That’s a category of work not a thing in and of itself.
 Tell me what, why and why now:
  We’re upgrading our database library because we’re 2 versions behind and in 3 months it will no longer get security updates. We’re upgrading the data object model library at the same time since it’s 4 versions behind and we’re having trouble getting answers to our edge cases. We’re preemptively upgrading our serialization library because it’s trivial when we do the other work and saves us 10x the work next year.</description>
+    </item>
+    
+    <item>
+      <title>Another test post</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/aaa/</link>
+      <pubDate>Mon, 08 Jan 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2018/aaa/</guid>
+      <description>printf();  alert(&amp;lsquo;hello&amp;rsquo;)</description>
+    </item>
+    
+    <item>
+      <title>What do computers dream about?</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/posts/2015/what-do-computers-dream-about/</link>
+      <pubDate>Thu, 08 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/posts/2015/what-do-computers-dream-about/</guid>
+      <description>I&amp;rsquo;m a lot of text</description>
     </item>
     
   </channel>

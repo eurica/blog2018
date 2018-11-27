@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T22:13:35-08:00"
+date = "2014-11-15T22:13:35-08:00"
 draft = true
 tags = []
 title = "Ask a PagerDuty API expert: #1 Dashboards"
 
 +++
-November 15, 2014 by dave
-
 Background: I’m writing examples against the [PagerDuty API](http://developer.pagerduty.com/) for our developer evangelism team, here’s a sneak preview:
 
 A dashboard of recent incidents 

@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T22:02:39-08:00"
+date = "2014-12-14T22:02:39-08:00"
 draft = true
 tags = ["agile", "notes", "product management"]
 title = "Certified Scrum Product Owner notes"
 
 +++
-December 14, 2014 by dave
-
 We sent a truckload of PMs and engineers to a 2 day Certified [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29) Product Owner course from [Jeff McKenna](https://www.cprime.com/training/instructors-and-coaches/jeff-mckenna/). I was a little surprised to hear that Scrum trainers aren’t allowed to change their slides once they’ve been approved — switching between the powerpoint deck and the unsanctioned handouts was surprisingly distracting.
 
 The class started off with an amusing bit of the [Dunning-Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) when we sorted ourselves in order of agile experience. Since most of us at PagerDuty had done the reading already, I found myself listening a lot to the background patter:

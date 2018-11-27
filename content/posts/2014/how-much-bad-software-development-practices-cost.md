@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:19:38-08:00"
+date = "2014-08-25T22:19:38-08:00"
 draft = true
 tags = []
 title = "How much bad software development practices cost"
 
 +++
-August 25, 2014 by dave
 
 I’m always jealous of other people’s datasets. Although [Rally’s](http://www.rallydev.com/resource/agile-performance-metrics-whitepaper) [The Impact of Agile Quantified](http://www.rallydev.com/sites/default/files/ImpactAgile_Quantified.pdf) whitepaper is obviously targeted at getting people to adopt their product, it has some useful back of the envelope values taken from almost 10,000 projects:
 

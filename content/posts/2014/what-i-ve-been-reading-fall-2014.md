@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:15:05-08:00"
+date = "2014-10-26T22:15:05-08:00"
 draft = true
-tags = []
+tags = ["books"]
 title = "What I’ve been reading (Fall 2014)"
 
 +++
-October 26, 2014 by dave
 
 [Dataclysm: Who We Are (When We Think No One’s Looking)](http://www.amazon.com/gp/product/0385347375/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0385347375&linkCode=as2&tag=eurica0d-20&linkId=TFQPCDMHOEKUPL3G)  
 I’m a fan of [OkTrends](http://blog.okcupid.com/) as well as Rudder’s band [Bishop Allen](http://bishopallen.com/), but I wasn’t really wow-ed by this book. Although it was nice to know some of the stats that seemed wrong we’re USA specific (the racial bias in Canada is less than half as pronounced in Canada) and it’s a good explanation and counter-weight to [WEIRD](http://www.slate.com/articles/health_and_science/science/2013/05/weird_psychology_social_science_researchers_rely_too_much_on_western_college.html) studies, the book could’ve benefitted from more aggressive editing:

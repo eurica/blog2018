@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T21:51:17-08:00"
+date = "2015-02-23T21:51:17-08:00"
 draft = true
 tags = ["code", "pagerduty", "pdjs"]
 title = "Manually triggering incidents in PagerDuty"
 
 +++
-February 23, 2015 by dave
-
 The easiest way to allow people to manually trigger incidents in PagerDuty is to set up an email service and publish the address. You may want to set up filtering to only trigger on email from inside your organization:
 
 ![](/uploads/Internal_testing_-_PagerDuty-1024x427.png)

@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T22:07:59-08:00"
+date = "2014-11-25T22:07:59-08:00"
 draft = true
 tags = ["interviews", "math"]
 title = "A limited defense of the 2 egg problem"
 
 +++
-November 25, 2014 by dave
-
 There’s a lot of backlash against using problems to asses cleverness in interviews. So much so that it looks like the site that reminded me to write this article changed [their example](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter) question away from the derided “2 egg problem”. 
 
 > I believe it is the prime example of everything that is wrong with engineering interview culture. Not sure if that makes it ideal material for a site like this or pointless trivia. — Top comment in a Hacker News [thread](https://news.ycombinator.com/item?id=8565495)

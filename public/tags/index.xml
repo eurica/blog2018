@@ -6,7 +6,7 @@
     <description>Recent content in Tags on euri.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Oct 2018 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blissful-archimedes-9aa76d.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Code</title>
       <link>https://blissful-archimedes-9aa76d.netlify.com/tags/code/</link>
-      <pubDate>Thu, 04 Oct 2018 07:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Oct 2018 07:00:00 +0000</pubDate>
       
       <guid>https://blissful-archimedes-9aa76d.netlify.com/tags/code/</guid>
       <description></description>
@@ -26,6 +26,15 @@
       <pubDate>Thu, 04 Oct 2018 07:00:00 +0000</pubDate>
       
       <guid>https://blissful-archimedes-9aa76d.netlify.com/tags/rambling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://blissful-archimedes-9aa76d.netlify.com/tags/test/</link>
+      <pubDate>Mon, 08 Oct 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-archimedes-9aa76d.netlify.com/tags/test/</guid>
       <description></description>
     </item>
     

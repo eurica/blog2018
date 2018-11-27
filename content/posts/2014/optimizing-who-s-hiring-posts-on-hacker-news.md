@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T22:05:39-08:00"
+date = "2014-11-30T22:05:39-08:00"
 draft = true
 tags = ["stats", "what I learned at PagerDuty", "analytics"]
 title = "Optimizing Who’s Hiring posts on Hacker News"
 
 +++
-November 30, 2014 by dave
-
 [PagerDuty](http://l.euri.ca/hnjobsblogpost) is a data focused company and recruiting is no exception. We’re growing quickly and one tiny corner of our recruiting effort has been to post in [Hacker News](https://news.ycombinator.com/news)’ [monthly Who’s Hiring thread](https://news.ycombinator.com/submitted?id=whoishiring). Over the past 6 months, I’ve been tracking our click-through on each of our posts, here’s what I’ve learned:
 
 A typical post would get 100-200 clicks:

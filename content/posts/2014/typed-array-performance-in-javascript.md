@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:23:08-08:00"
+date = "2014-05-20T22:23:08-08:00"
 draft = true
 tags = []
 title = "Typed Array performance in JavaScript"
 
 +++
-May 20, 2014 by dave
 
 I was looking at a few JavaScript implementations of [Conway’s Game of Life](http://www.conwaylife.com/wiki/Conway's_Game_of_Life) and I was a little underwhelmed by their performance, so I started wondering how much was related to Array performance in JavaScript.
 

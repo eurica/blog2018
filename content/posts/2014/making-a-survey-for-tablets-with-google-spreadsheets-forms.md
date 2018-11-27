@@ -1,17 +1,14 @@
 +++
-date = "2018-11-26T22:18:58-08:00"
+date = "2014-08-28T22:18:58-08:00"
 draft = true
 tags = []
 title = "Making a survey for tablets with Google Spreadsheets/forms"
 
 +++
-August 28, 2014 by dave
 
 [Google forms](http://www.google.com/google-d-s/createforms.html) are a great tool to throw together quick feedback forms – [we](http://www.pagerduty.com/) use an iPad with a form in the lunchroom to rate our caterer.
 
-Great idea, poor execution. Most of them end up looking like this:
-
-![ugly google forms](http://euri.ca/wp-content/uploads/2014/08/How_was_the_meetup_-1024x455.png =620x275)
+Great idea, poor execution. Most of them end up looking awful.
 
 We can do better. Take [this form](https://docs.google.com/a/pagerduty.com/forms/d/1V6pF3NGpEev0Pl8p22V2fmfHtx-09UtF0bnyAuFoN5E/viewform) for instance. We can convince just about anyone to click on a form optimized for an iPad: [Live demo](http://euri.ca/files/meetup.html)
 

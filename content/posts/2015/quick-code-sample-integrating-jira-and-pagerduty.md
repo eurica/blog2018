@@ -1,12 +1,10 @@
 +++
-date = "2018-11-26T21:46:52-08:00"
+date = "2018-03-06T21:46:52-08:00"
 draft = true
 tags = ["heroku", "jira", "pagerduty", "code", "webhooks"]
 title = "Quick code sample: Integrating JIRA and PagerDuty"
 
 +++
-March 6, 2015 by dave
-
 Here is a program I threw together to create PagerDuty incidents that track urgent JIRA issue. The PD incidents are updated and closed automatically if the JIRA issue changes.
 
 **Step 1, configure PagerDuty**

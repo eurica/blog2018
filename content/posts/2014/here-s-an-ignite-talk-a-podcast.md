@@ -1,11 +1,10 @@
 +++
-date = "2018-11-26T22:15:42-08:00"
+date = "2014-10-26T22:15:42-08:00"
 draft = true
 tags = []
 title = "Here’s an ignite talk & a podcast"
 
 +++
-October 26, 2014 by dave
 
 I overstretched myself a little last week with two speaking engagements:
 
