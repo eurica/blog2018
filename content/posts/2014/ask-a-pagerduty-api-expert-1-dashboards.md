@@ -9,7 +9,7 @@ November 15, 2014 by dave
 
 Background: I’m writing examples against the [PagerDuty API](http://developer.pagerduty.com/) for our developer evangelism team, here’s a sneak preview:
 
-A dashboard of recent incidents
+A dashboard of recent incidents 
 
 [![PagerDuty_Dashboard_Example](http://euri.ca/wp-content/uploads/2014/11/PagerDuty_Dashboard_Example-300x210.png =300x210)](http://euri.ca/wp-content/uploads/2014/11/PagerDuty_Dashboard_Example.png)Some of our users have been using browser plugins to refresh the dashboard more frequently, there are some great tools that work with PagerDuty to do that: [StatusPage.io](https://www.statuspage.io/), [Geckoboard](https://www.geckoboard.com/integrations/pager-duty/), along with open source projects like [pagerduty-dashing](https://github.com/thegreenrobot/pagerduty_dashing) and [Brainiac](https://github.com/cmonty/brainiac).
 
