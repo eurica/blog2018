@@ -4,6 +4,9 @@ title = "euri.ca"
 theme = "hyde"
 
 
+[permalinks]
+  post = "/:year/:month/:title/"
+
 [params]
   themeColor = "theme-base-0d"
   description = "Numbers for people"
